@@ -1,1 +1,2 @@
 - `0-factory.py`: Factory pattern with a registry extended to support Scooter.
+- `1-observer.py`: Observer pattern with a new SmsObserver subscribed only to breaking news.
