@@ -1,0 +1,1 @@
+- `0-factory.py`: Factory pattern with a registry extended to support Scooter.
