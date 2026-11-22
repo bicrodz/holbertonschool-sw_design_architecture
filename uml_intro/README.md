@@ -1,0 +1,1 @@
+- `0-class_diagram.mmd`: class diagram of the Library Loan System.
