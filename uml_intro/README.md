@@ -1,1 +1,2 @@
 - `0-class_diagram.mmd`: class diagram of the Library Loan System.
+- `1-sequence_diagram.mmd`: sequence diagram of a user borrowing a book.
